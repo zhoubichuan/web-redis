@@ -1,3 +1,3 @@
-# MongoDB 分析
+# Redis 学习笔记
 
-> MongoDB 相关笔记
+> Redis 学习笔记
