@@ -18,7 +18,6 @@ npm run src:build
 cd dist
 
 # 4.发布到gh-pages分支
-git init
 git checkout --orphan gh-pages
 git add .
 git commit -m 'gh-pages'
