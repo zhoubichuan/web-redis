@@ -1,6 +1,6 @@
 module.exports = {
   // 基础配置
-  base: '/Web-redis/', // 部署站点的基础路径
+  base: '/web-redis/', // 部署站点的基础路径
   description: 'redis相关知识点',
   locales: {
     // 默认标题
