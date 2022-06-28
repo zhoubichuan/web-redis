@@ -13,7 +13,7 @@ module.exports = {
     lineNumbers: true // 代码块显示行号
   },
   port: 3009,
-  dest: 'dist', // 指定 vuepress build 的输出目录
+  dest: 'web-redis', // 指定 vuepress build 的输出目录
   serviceWorker: true, // pwa
 
   // 主题配置
