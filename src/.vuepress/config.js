@@ -5,7 +5,7 @@ module.exports = {
   locales: {
     // 默认标题
     '/': {
-      title: 'redis笔记',
+      title: 'Redis笔记',
       description: ''
     }
   },
