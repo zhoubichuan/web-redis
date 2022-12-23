@@ -32,7 +32,7 @@ module.exports = {
         items: [
           {
             text: '1.redis实践指南',
-            link: '/base/build/1.config'
+            link: '/base/redis/1.index'
           },
           {
             text: '2.redis相关实践',
@@ -45,18 +45,18 @@ module.exports = {
         items: [
           {
             text: '1.组件精讲',
-            link: '/senior/use/1.recursionAndDynamics'
+            link: '/senior/use/1.index'
           },
           {
             text: '2.TypeScript',
-            link: '/senior/typeScript/inde'
+            link: '/senior/typeScript/1.index'
           },
         ]
       }
     ],
     sidebar: {
-      '/base/build/': [
-        '1.config',
+      '/base/redis/': [
+        '1.index',
         '2.webpack',
         '3.file',
         '4.single',
@@ -81,7 +81,7 @@ module.exports = {
         'i18n'
       ],
       '/senior/use/': [
-        '1.recursionAndDynamics',
+        '1.index',
         '2.extend',
         '3.componentCommunication',
         '4.render',
@@ -92,6 +92,9 @@ module.exports = {
         '9.alert',
         '10.table',
         '11.tree'
+      ],
+      '/senior/typeScript/': [
+        '1.index',
       ],
     },
     searchMaxSuggestoins: 10
